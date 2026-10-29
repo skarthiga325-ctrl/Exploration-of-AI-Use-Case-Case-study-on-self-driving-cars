@@ -27,6 +27,8 @@ The working principle of a self-driving car involves the following steps:
 7. Vehicle Control: The control system sends commands to the steering, braking, and acceleration systems to move the vehicle along the planned path.
 
 8. Continuous Monitoring: The vehicle continuously collects new sensor data and repeats these steps to respond to changing road conditions.
+   <img width="464" height="311" alt="image" src="https://github.com/user-attachments/assets/4a2b068f-9476-4b58-afef-4d6eca7f245a" />
+
 
 # RESULT
 
